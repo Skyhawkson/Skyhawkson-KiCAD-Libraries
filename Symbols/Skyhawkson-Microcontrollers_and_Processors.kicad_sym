@@ -184,11 +184,11 @@
       )
     )
   )
-  (symbol "ST_STM32F446RET7" (in_bom yes) (on_board yes)
+  (symbol "STM32F446RET7" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 5.08 12.7 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "ST_STM32F446RET7" (id 1) (at 38.1 -19.05 0)
+    (property "Value" "STM32F446RET7" (id 1) (at 38.1 -19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Skyhawkson_Footprints:ST_STM32F446" (id 2) (at 5.08 33.02 0)
@@ -200,7 +200,7 @@
     (property "DKPN" "497-16775-ND" (id 4) (at 5.08 27.94 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (symbol "ST_STM32F446RET7_0_1"
+    (symbol "STM32F446RET7_0_1"
       (polyline
         (pts
           (xy 7.62 -50.8)
@@ -240,7 +240,7 @@
         (fill (type none))
       )
     )
-    (symbol "ST_STM32F446RET7_1_1"
+    (symbol "STM32F446RET7_1_1"
       (pin power_in line (at 0 0 0) (length 5.08)
         (name "VBAT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
