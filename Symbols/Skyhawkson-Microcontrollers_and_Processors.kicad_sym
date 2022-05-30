@@ -15,6 +15,9 @@
     (property "DKPN" "1965-ESP32-WROOM-32D(4MB)CT-ND" (id 4) (at 5.08 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "ki_description" "Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "ESP32-WROOM-32D_0_0"
       (text "*: Connected to Internal Flash." (at 27.94 -20.32 0)
         (effects (font (size 1 1)))
@@ -199,6 +202,9 @@
     )
     (property "DKPN" "497-16775-ND" (id 4) (at 5.08 27.94 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "ki_description" "ARM® Cortex®-M4 series Microcontroller IC 32-Bit Single-Core 180MHz 512KB (512K x 8) FLASH 64-LQFP (10x10)" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "STM32F446RET7_0_1"
       (polyline
