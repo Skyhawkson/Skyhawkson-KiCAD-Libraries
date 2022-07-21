@@ -6,7 +6,7 @@
     (property "Value" "ADESTO_AT25SF128A-SHB" (id 1) (at 5.08 -16.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 5.08 10.16 0)
+    (property "Footprint" "Skyhawkson_Footprints:ADESTO_8S4_(SOP-8)" (id 2) (at 5.08 10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2202011000_Dialog-Semiconductor-AT25SF128A-SHB-T_C2061592.pdf" (id 3) (at 5.08 7.62 0)
