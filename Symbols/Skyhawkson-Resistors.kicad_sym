@@ -359,7 +359,7 @@
     (property "Package" "0603" (id 7) (at 0 -11.43 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Resistance" "1K" (id 8) (at 0 -3.81 0)
+    (property "Resistance" "1M" (id 8) (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "ki_description" "RES SMD 1MOHM 1% 1/10W 0603" (id 9) (at 0 0 0)
