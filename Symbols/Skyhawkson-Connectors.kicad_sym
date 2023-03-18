@@ -6,7 +6,7 @@
     (property "Value" "AMP_MSPE-J2L0-B01" (at 5.08 -20.32 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "" (at 5.08 7.62 0)
+    (property "Footprint" "Skyhawkson_Footprints:AMP_MSPE-J2L0-B01" (at 5.08 10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/p-mspe-j2l0-b01.pdf" (at 5.08 7.62 0)
