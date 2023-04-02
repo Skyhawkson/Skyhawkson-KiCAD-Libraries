@@ -1,0 +1,11 @@
+layer "F.Silkscreen" type "Top Silk Screen" Color "White" Material "Liquid Photo"
+layer "F.Paste" type "Top Solder Paste"
+layer "F.Mask" type "Top Solder Mask" Color "Purple" Thickness 0.01 mm Material "Liquid Ink" EpsilonR 3.3 LossTg 0
+layer "F.Cu" type "copper" Thickness 0.035 mm
+layer "Dielectric 1" type "core"
+  sublayer "1/1" Color "FR4 natural" Thickness 1.51 mm Material "FR4" EpsilonR 4.5 LossTg 0.015
+layer "B.Cu" type "copper" Thickness 0.035 mm
+layer "B.Mask" type "Bottom Solder Mask" Color "Purple" Thickness 0.01 mm Material "Liquid Ink" EpsilonR 3.3 LossTg 0
+layer "B.Paste" type "Bottom Solder Paste"
+layer "B.Silkscreen" type "Bottom Silk Screen" Color "White" Material "Liquid Photo"
+Finish "None"
