@@ -1299,7 +1299,7 @@
         (name "38" (effects (font (size 1.27 1.27))))
         (number "38" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -0.0494 -48.5505 0) (length 5.08)
+      (pin passive line (at 0 -48.26 0) (length 5.08)
         (name "39" (effects (font (size 1.27 1.27))))
         (number "39" (effects (font (size 1.27 1.27))))
       )
