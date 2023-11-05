@@ -176,7 +176,7 @@
   (pad "38" smd rect (at -1.25 -2.9718) (size 0.2032 0.762) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fd7ad612-5d07-4662-bbc3-34981a1729e2))
   (pad "39" smd rect (at -1.749999 -2.9718) (size 0.2032 0.762) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a75a835c-8584-4909-9699-40d4a6d5f5f8))
   (pad "40" smd rect (at -2.250001 -2.9718) (size 0.2032 0.762) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e975f7df-53b6-4696-8498-fc6c5a2308b6))
-  (pad "41" smd rect (at 0 0) (size 4.2418 4.2418) (layers "F.Cu" "F.Mask") (tstamp cafc0a2f-a571-489e-b86d-747371ec10f3))
+  (pad "EP" smd rect (at 0 0) (size 4.2418 4.2418) (layers "F.Cu" "F.Mask") (tstamp cafc0a2f-a571-489e-b86d-747371ec10f3))
   (model ":SKYHAWKSON_MODEL_DIR:AD_ADIN1110.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
