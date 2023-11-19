@@ -765,7 +765,7 @@
     (property "Value" "220NF_0603" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Footprint" "" (at 0 5.08 0)
+    (property "Footprint" "Skyhawkson_Footprints:GENERIC_0402_CAP" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "~" (at 2.54 0 90)
