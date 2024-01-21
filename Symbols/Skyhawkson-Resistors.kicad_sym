@@ -472,7 +472,7 @@
     (property "Reference" "R" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "0R_0603" (at 0 6.35 0)
+    (property "Value" "1K5_0603" (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Footprint" "Skyhawkson_Footprints:GENERIC_0603_RES" (at 0 3.81 0)

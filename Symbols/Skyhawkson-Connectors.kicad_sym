@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "AMP_MSPE-J2L0-B01" (in_bom no) (on_board yes)
+  (symbol "AMP_MSPE-J2L0-B01" (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 5.08 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )

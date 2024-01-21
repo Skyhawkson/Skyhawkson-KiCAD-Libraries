@@ -201,7 +201,7 @@
     (property "Reference" "X" (at 5.08 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "ABRACON_ABM8-27.000MHZ-12-D1X" (at 5.08 -13.97 0)
+    (property "Value" "ABRACON_ABM8-25.000MHZ-12-D2Y" (at 5.08 -13.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Skyhawkson_Footprints:ABRACON_ABM8" (at 5.08 10.16 0)
