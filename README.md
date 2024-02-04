@@ -10,7 +10,7 @@ All items included here are subject to change/my own hubris. While I strive to m
 
 <img width="1447" alt="KiCad_Symbols_Screenshot" src="https://github.com/Skyhawkson/Skyhawkson-KiCAD-Libraries/assets/32376505/d291c78f-a201-45f6-bb3a-d0342b447156">
 
-Symbols in this library represent a single physical part, and therefore contain more information than the name of the device. They include a manufacturer prefix, and data per the YJSP Component Naming Preferences PDF in /Reference Documents. Adding a symbol to your schematic should automatically include the matching footprint and DKPN, and therefore be immediately importable to a PCB and indexable in a BoM. I encourage the use of the (Interactive HTML BOM)[https://github.com/openscopeproject/InteractiveHtmlBom] plugin for ordering and placing parts.
+Symbols in this library represent a single physical part, and therefore contain more information than the name of the device. They include a manufacturer prefix, and data per the YJSP Component Naming Preferences PDF in /Reference Documents. Adding a symbol to your schematic should automatically include the matching footprint and DKPN, and therefore be immediately importable to a PCB and indexable in a BoM. I encourage the use of the [Interactive HTML BOM](https://github.com/openscopeproject/InteractiveHtmlBom) plugin for ordering and placing parts.
 
 ## Footprints
 
@@ -24,7 +24,7 @@ Footprints marked 'GENERIC_' are for such common 'jellybean' parts that making a
 
 Models included in the /Models folder are based on the following sources:
 - Manufacturer Supplied Models
-- Models modified from (SnapEDA)[https://www.snapeda.com/about/terms/]
+- Models modified from [SnapEDA](https://www.snapeda.com/about/terms/)
 - Models hand-made by myself in Solidworks
 
 All models are .STEP AP214 with appearances enabled.
