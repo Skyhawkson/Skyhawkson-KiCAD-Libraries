@@ -8,9 +8,13 @@ All items included here are subject to change/my own hubris. While I strive to m
 
 ## Symbols
 
+<img width="1447" alt="KiCad_Symbols_Screenshot" src="https://github.com/Skyhawkson/Skyhawkson-KiCAD-Libraries/assets/32376505/d291c78f-a201-45f6-bb3a-d0342b447156">
+
 Symbols in this library represent a single physical part, and therefore contain more information than the name of the device. They include a manufacturer prefix, and data per the YJSP Component Naming Preferences PDF in /Reference Documents. Adding a symbol to your schematic should automatically include the matching footprint and DKPN, and therefore be immediately importable to a PCB and indexable in a BoM. I encourage the use of the (Interactive HTML BOM)[https://github.com/openscopeproject/InteractiveHtmlBom] plugin for ordering and placing parts.
 
 ## Footprints
+
+<img width="1600" alt="KiCad_Footprints_Screenshot" src="https://github.com/Skyhawkson/Skyhawkson-KiCAD-Libraries/assets/32376505/647d86c1-5b2f-4701-a476-2e891a6a2edf">
 
 Footprints in this library are intended to follow the manufacturer's recommendation as closely as possible, or my best judgement based on experience/IPC standards if a manufacturer footprint isn't available. Please raise an issue if you experience problems with manufacturing; this is a living library and I update it to fix bugs as I build additional boards. 
 
