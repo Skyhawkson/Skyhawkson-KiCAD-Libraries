@@ -481,7 +481,7 @@
     (property "Value" "HIROSE_FH12-16S-1SH(55)" (at 5.08 -50.8 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "" (at 5.08 10.16 0)
+    (property "Footprint" "Skyhawkson_Footprints:HIROSE_FH12-16S-1SH" (at 5.08 10.16 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.hirose.com/product/document?clcode=&productname=&series=FH12&documenttype=Catalog&lang=en&documentid=D31648_en" (at 5.08 7.62 0)
@@ -500,6 +500,16 @@
       )
     )
     (symbol "HIROSE_FH12-16S-1SH(55)_1_1"
+      (polyline
+        (pts
+          (xy 12.065 0)
+          (xy 13.97 1.27)
+          (xy 13.97 -1.27)
+          (xy 12.065 0)
+        )
+        (stroke (width 0) (type default))
+        (fill (type outline))
+      )
       (pin passive line (at 0 0 0) (length 5.08)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
