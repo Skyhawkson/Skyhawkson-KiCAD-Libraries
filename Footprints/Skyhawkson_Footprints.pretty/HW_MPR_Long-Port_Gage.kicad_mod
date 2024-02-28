@@ -1,0 +1,315 @@
+(footprint "HW_MPR_Long-Port_Gage"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -3.302 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "58c6becf-f1a7-4ff4-891a-d25617dbacb5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HW_MPR_Long-Port_Gage"
+		(at 0 3.302 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "72572ec3-a6eb-44d8-b4e7-8573db58a475")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -5.58 -7.112 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a035672d-b1d3-48c6-b9d2-ae5777ba6c69")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -5.58 -7.112 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa6944eb-4531-405a-a4c3-1d0a6f07cf3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -5.58 -7.112 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6f8c4fe-7df5-4604-ad3c-f1aeb76908f5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.54 -2.54)
+		(end -2.54 -2.032)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ccd13af6-dedc-4b97-b7ce-cacec21a158a")
+	)
+	(fp_line
+		(start -2.54 2.54)
+		(end -2.54 2.032)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9ed33d33-793b-49c5-bba3-94caeb8b1d32")
+	)
+	(fp_line
+		(start -2.032 -2.54)
+		(end -2.54 -2.54)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a83c3cd9-453f-4cdc-a5ce-5ab7e56ce2d1")
+	)
+	(fp_line
+		(start -2.032 2.54)
+		(end -2.54 2.54)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e3331d0a-44a3-46ff-a2c5-a9a022d46936")
+	)
+	(fp_line
+		(start 2.032 -2.54)
+		(end 2.54 -2.54)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "95c4496e-0a6f-4bde-ae2b-0654b7901c87")
+	)
+	(fp_line
+		(start 2.54 -2.54)
+		(end 2.54 -2.032)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "676c2bb2-1261-4e31-b290-1940b93401b6")
+	)
+	(fp_circle
+		(center 1.27 2.794)
+		(end 1.37 2.794)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "26b13510-9d33-4024-87cb-06ad3bb656b5")
+	)
+	(fp_poly
+		(pts
+			(xy 2.532 2.04) (xy 2.532 2.54) (xy 2.032 2.54)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "fcc3b9ee-fb79-41ad-a98f-eee1bfdc9a2f")
+	)
+	(fp_line
+		(start -2.625 -2.625)
+		(end 2.625 -2.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b121ea93-05d3-4548-8d35-74ddb04218c4")
+	)
+	(fp_line
+		(start -2.625 2.625)
+		(end -2.625 -2.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "773e3515-a62d-4656-8ebd-4dc344b768d1")
+	)
+	(fp_line
+		(start -2.625 2.625)
+		(end 2.625 2.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7993779f-aa8d-4504-91ad-77a1312ad5f1")
+	)
+	(fp_line
+		(start 2.625 2.625)
+		(end 2.625 -2.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7eac0aa3-3172-42c1-9878-b777f70642de")
+	)
+	(fp_rect
+		(start -2.5 2.5)
+		(end 2.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "bcfc84ff-2712-49ba-a052-487cdae698b1")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aecbb0e1-aab9-45b3-ac41-adbb64d1d485")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -0.78 -0.07)
+		(size 1.1 1.1)
+		(drill 1.1)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "bd07bffd-ab28-444e-8a9c-ed29ed2ae6f6")
+	)
+	(pad "1" smd rect
+		(at 1.27 2.1)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "0555104b-780e-4ebf-a66e-b525fa2e6f24")
+	)
+	(pad "2" smd rect
+		(at 0 2.1)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "cb0eba46-4ee0-4996-b732-7632c74e7678")
+	)
+	(pad "3" smd rect
+		(at -1.27 2.1)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "3778fbf8-b7b0-4758-b44c-cda95d3d1782")
+	)
+	(pad "4" smd rect
+		(at -2.1 1.27 270)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "2ee6fcfb-d26a-41de-a4b4-95172fe0b912")
+	)
+	(pad "5" smd rect
+		(at -2.1 0 270)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "32b7d408-28d3-4302-a424-3674ef53e58b")
+	)
+	(pad "6" smd rect
+		(at -2.1 -1.27 270)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "e290f0a8-9e80-4066-ab0d-d5b72ed174eb")
+	)
+	(pad "7" smd rect
+		(at -1.27 -2.1 180)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "e05c0570-51bc-47e4-8c43-d729bf805230")
+	)
+	(pad "8" smd rect
+		(at 0 -2.1 180)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "5121fc54-aff0-4a90-9683-97cc029fd609")
+	)
+	(pad "9" smd rect
+		(at 1.27 -2.1 180)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "636fbd86-ee5d-43b4-a59d-e866c135af75")
+	)
+	(pad "10" smd rect
+		(at 2.1 -1.27 90)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "34166067-87bb-4018-aaec-f3339018302e")
+	)
+	(pad "11" smd rect
+		(at 2.1 0 90)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "c24d72b7-e6db-4fdb-855e-30aa301dc71c")
+	)
+	(pad "12" smd rect
+		(at 2.1 1.27 90)
+		(size 0.7 0.65)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin -0.2)
+		(uuid "66bb467a-c828-4627-b32d-c02a26debcb6")
+	)
+	(model "${SKYHAWKSON_MODEL_DIR}/HW_MPR_Long-Port_Gage.STEP"
+		(offset
+			(xyz 0 0 0.05)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
